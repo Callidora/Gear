@@ -1,0 +1,34 @@
+standard
+***Report Model: Gear***
+
+IO Statistics
+#IO                       4
+  #input                  2
+  #output                 2
+  #inout                  0
+
+Gate Statistics
+#Basic gates             80
+  #and                    0
+  #nand                   0
+  #or                     0
+  #nor                    0
+  #xor                    0
+  #xnor                   0
+  #buf                    0
+  #not                    1
+  #bufif1                 0
+  #MX21                   5
+  #FADD                   0
+  #DFF                   74
+  #LATCH                  0
+#MACRO_ADD                8
+#MACRO_EQ                 1
+#MACRO_MUX              200
+
+Report Hierarchy Area:
++-----------------------------------------+
+|Instance |Module |gates  |seq    |macros |
++-----------------------------------------+
+|top      |Gear   |6      |74     |9      |
++-----------------------------------------+

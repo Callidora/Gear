@@ -1,0 +1,10 @@
+set_pin_assignment {clk}    { LOCATION = K14;  }
+set_pin_assignment {rst}    { LOCATION = T4;   }         ##拨码开关0
+
+set_pin_assignment {pwm}    { LOCATION = M3;   }         ##首个LED
+set_pin_assignment {ctr}    { LOCATION = A9;  }         ##Arduino板口输出
+
+
+ 
+
+
